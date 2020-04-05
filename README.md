@@ -21,7 +21,7 @@
 - 2 kaşık domates salçası
 - 1 kaşık biber salçası
 - 1 kg ince bulgur
-- 2 yemek kaşığı tuz
+- 1 yemek kaşığı tuz
 - 2 diş sarımsak
 - 2 yemek kaşığı isot
 - 1 yemek kaşığı kimyon
@@ -34,3 +34,17 @@ Bu sirada domates ve sarimsaklari mutfak robotundan gecirin ve kiymaya ilave edi
  
 Ceviz buyuklugunde ya da arzuye gore daha buyuk parcalar alin ve avunucuzun icinde sikarak cig kofte seklini verin.
 Yaninda limon ve marul yapragi ile servis yapin.Afiyet Olsunn!
+
+### Cig Kofte Recipe
+
+#### Ingredients:
+- 1-2 big onions
+- 1/4 cup lemon juice
+- 2 spoon tomatoes sauce
+- 1 spoon pepper paste
+- 1kg fine bulgur
+- 1 spoon salt
+- 2 cloves garlic
+- 1 spoon isot
+- 1 spoon cumin 
+
