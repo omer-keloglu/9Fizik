@@ -6,6 +6,7 @@
 9-E
 
 ## Vücut Kitle Endeksleri:
+|Kişi|Vücut kitle indeksi|
 |-----------|-----------|
 |Ben|22.2 kg/m2|İdeal kilo|
 |Babam|29.2 kg/m2|İdeal kilonun üzeri|
